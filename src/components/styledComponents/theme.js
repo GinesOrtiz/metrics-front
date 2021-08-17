@@ -1,0 +1,33 @@
+const themes = {
+  light: {
+    theme: 'light',
+    main: '#f1f6fd',
+    mainLight: '#e1ebf6',
+    mainDark: '#f5f8fa',
+    mainLightShadow: '#e1ebf6',
+    blue: '#a7d0f3',
+    blueDark: '#94bfe4',
+    text: '#2a3153',
+    textLight: '#8594a4',
+    textDark: '#65657c',
+    yellow: '#a96d3c',
+    yellowLight: '#f8963f',
+    yellowDark: '#463839',
+  },
+  dark: {
+    theme: 'dark',
+    main: '#252637',
+    mainLight: '#333246',
+    mainDark: '#1e1e2b',
+    mainLightShadow: '#2e3041',
+    blue: '#0759fa',
+    blueDark: '#1152d2',
+    text: '#FFFFFF',
+    textLight: '#c0c0cd',
+    textDark: '#65657c',
+    yellow: '#a96d3c',
+    yellowLight: '#f8963f',
+    yellowDark: '#463839',
+  },
+}
+export default themes

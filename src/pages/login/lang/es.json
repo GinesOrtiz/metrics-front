@@ -1,0 +1,19 @@
+{
+  "login": {
+    "title": "Metrics - Login",
+    "action": "Login",
+    "secondaryAction": "Or signup"
+  },
+  "create": {
+    "title": "Metrics - Signup",
+    "action": "Create account",
+    "secondaryAction": "Or login"
+  },
+  "username": "Username",
+  "password": "Password",
+  "errors": {
+    "invalid_user": "Usuario o contraseña no válidos",
+    "invalid_password": "Contraseña no válida",
+    "already_exists": "El usuario ya existe"
+  }
+}

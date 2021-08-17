@@ -1,0 +1,7 @@
+{
+  "charts": {
+    "perMinute": "Average per minute",
+    "perHour": "Average per hour",
+    "perDay": "Average per day"
+  }
+}

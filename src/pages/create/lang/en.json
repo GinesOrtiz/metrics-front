@@ -1,0 +1,11 @@
+{
+  "title": "Create a new metric",
+  "fields": {
+    "name": "Name",
+    "value": "Value",
+    "time": "Date"
+  },
+  "submit": "Create metric",
+  "success": "Metric created successfully: ({{_id}})",
+  "error": "There was a problem"
+}

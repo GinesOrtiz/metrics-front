@@ -1,0 +1,12 @@
+{
+  "login": {
+    "title": "Metrics - Login",
+    "action": "Login"
+  },
+  "create": {
+    "title": "Metrics - Signup",
+    "action": "Create account"
+  },
+  "username": "Username",
+  "password": "Password"
+}

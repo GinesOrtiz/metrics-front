@@ -1,0 +1,12 @@
+{
+  "charts": {
+    "perMinute": "Promedio por minuto",
+    "perHour": "Promedio por hora",
+    "perDay": "Promedio por día"
+  },
+  "tooltips": {
+    "minute": "Minute {{name}} - Average {{value}}",
+    "hour": "Hour {{name}} - Average {{value}}",
+    "day": "Day {{name}} - Average {{value}}"
+  }
+}
